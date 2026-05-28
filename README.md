@@ -1,10 +1,18 @@
-<h1 align="center">Hi there, I'm Ramtin 👋</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/cyber.gif" width="100%" alt="Cyber Security Banner"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=2200&pause=700&color=00FF9F&center=true&vCenter=true&width=720&lines=Hi+there,+I'm+Ramtin+👋;Cybersecurity+%26+Autonomous+Systems;Hacking+UAVs+%26+Robots+🛡️🛸;Building+offline+networks+from+Iran" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS%20Student-University-blue" alt="CS Student"/>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Robotics-red" alt="Focus"/>
   <img src="https://img.shields.io/badge/Based-Iran-🇮🇷" alt="Iran"/>
 </p>
+
+---
 
 ### Hacking autonomous systems while bypassing 403 errors daily 🛡️🛸
 
