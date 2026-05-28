@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Ramtin 👋</h1>
 
 <p align="center">
@@ -9,44 +8,39 @@
 
 ### Hacking autonomous systems while bypassing 403 errors daily 🛡️🛸
 
-**CS Student** با تمرکز روی امنیت سایبری سیستم‌های روباتیک، پهپاد (UAV) و سیستم‌های خودران.
+**CS Student** passionate about **Cybersecurity of UAVs, Robotics & Autonomous Systems**.
 
 ---
 
 ### 🛠️ Currently Working On
-- **PersiaMeash** — شبکه مش آفلاین با Bluetooth Mesh + LoRa + Tor (Made in Iran)
-- امنیت سایبری روباتیک و UAV
-- ...
+- **PersiaMeash** — Offline Mesh Network using Bluetooth Mesh + LoRa + Tor (Made in Iran)
+- Security Research on UAVs and Autonomous Systems
+- Building resilient offline communication networks
+
+---
 
 ### 🔥 Skills & Technologies
 
 **Cybersecurity:**
-- Penetration Testing • Reverse Engineering • Cryptography • ...
+- Penetration Testing • Reverse Engineering • Cryptography • Network Security
 
-**Robotics & Embedded:**
-- ROS • PX4 • ArduPilot • ...
+**Robotics & Embedded Systems:**
+- ROS • PX4 • ArduPilot • Embedded Systems
 
-**Languages:**
-- Go • Python • C/C++ • Rust (در حال یادگیری)
+**Programming Languages:**
+- Go • Python • C/C++ • Rust
+
+---
 
 ### 📊 GitHub Stats
-(اینجا از کارت‌های github-readme-stats استفاده کن)
+
+[![Ramtin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramtin-2024&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramtin-2024&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Let's Connect
-- LinkedIn
-- Twitter/X
-- Email
-<!--
-**ramtin-2024/ramtin-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn**: [Ramtin Golbon](https://linkedin.com/in/ramtin-golbon)
+- **Telegram**: [@ramtin2204](https://t.me/ramtin2204)
+- **Email**: ramtin7318@gmail.com
