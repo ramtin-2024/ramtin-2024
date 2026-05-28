@@ -42,7 +42,7 @@ I hack autonomous systems while building resilient offline networks from Iran.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramtin-2024&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
+--
 
 ### 🐍 Contribution Activity
 ![GitHub Snake](https://github.com/ramtin-2024/ramtin-2024/blob/output/github-contribution-grid-snake-dark.svg)
